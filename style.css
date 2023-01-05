@@ -1,10 +1,14 @@
 img {
-        max-width:50%;
+        max-width:500px;
         height: auto;
 }
 
 h2.intro {
-    font-style: italic;
+    font-style: italic
+}
+
+div {
+    width: 50vw;
 }
 
 p.intro {
